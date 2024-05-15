@@ -1,2 +1,2 @@
 # test34
-ik doe maar wat
+# voor testen van code en aplicaties.
